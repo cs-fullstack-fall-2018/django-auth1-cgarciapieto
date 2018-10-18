@@ -1,0 +1,1 @@
+path('user/', views.userIndex, name='user_index'),
